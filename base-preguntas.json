@@ -1,0 +1,345 @@
+[
+    {
+        "categoria": "Nombres de cantantes",
+        "pregunta": "¿Cuál es el nombre real de Lady Gaga?",
+        "respuesta": "Stefani Joanne Angelina Germanotta",
+        "incorrecta1": "Lauren Joanne Angelica Germanotta",
+        "incorrecta2": "Sophia Maria Gagastro",
+        "incorrecta3": "Stefani Julia Washinton",
+        "imagen": "https://los40.com/los40/imagenes/2021/08/04/musica/1628031822_351102_1628032012_gigante_normal.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nombres de cantantes",
+        "pregunta": "¿Cuál es el nombre real de Tiago PZK?",
+        "respuesta": "Tiago Uriel Pacheco",
+        "incorrecta1": "Tiago Fernando Coronel",
+        "incorrecta2": "Tiago Uriel Perez",
+        "incorrecta3": "Tiago Nicolas Ponce",
+        "imagen": "https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/cover_photo/179877/646d995019b82a915244398b58263ece.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nombres de cantantes",
+        "pregunta": "¿Cuál es el nombre real de Katy Perry?",
+        "respuesta": "Katheryn Elizabeth Hudson",
+        "incorrecta1": "Katheryn Perry",
+        "incorrecta2": "Kylie Oprah Hudson",
+        "incorrecta3": "Katya Elizabeth Perry",
+        "imagen": "https://www.todomusica.org/imagenes/_notb/katy-perry-justin-timberlake-invierten-realidad-virtual.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nombres de cantantes",
+        "pregunta": "¿Cuál es el nombre real de Wos?",
+        "respuesta": "Valentín Oliva",
+        "incorrecta1": "Valerio Orozco",
+        "incorrecta2": "Agustín Oliva",
+        "incorrecta3": "Valentín Fernández",
+        "imagen": "https://i0.wp.com/urbanroosters.news/wp-content/uploads/2020/04/wos-banner-nf.jpg?fit=1280%2C550",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nombres de cantantes",
+        "pregunta": "¿Cuál es el nombre real de Daddy Yankee?",
+        "respuesta": "Ramón Luis Ayala",
+        "incorrecta1": "Roberto Luis Perez",
+        "incorrecta2": "Miguel Ramón Aymar",
+        "incorrecta3": "Ramón Luis Arana",
+        "imagen": "https://images2-mega.cdn.mdstrm.com/meganoticias/2022/05/17/_377292_4_62839d28e41fb.jpg?d=950x535",
+        "objectFit": "cover"
+    },
+
+
+    {
+        "categoria": "Géneros musicales",
+        "pregunta": "¿Cómo se llama al género musical que mezcla rap, hip hop y dubstep?",
+        "respuesta": "Trap",
+        "incorrecta1": "Hip hoppa",
+        "incorrecta2": "Reggaeton",
+        "incorrecta3": "Cumbia 420",
+        "imagen": "https://flypaper.soundfly.com/wp-content/uploads/2017/08/trap-music-header-1024x683.png",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Premios",
+        "pregunta": "¿Qué cantante ganó el Oscar por su canción Shallow?",
+        "respuesta": "Lady Gaga",
+        "incorrecta1": "Adele",
+        "incorrecta2": "Amy Winehouse",
+        "incorrecta3": "Whitney Houston",
+        "imagen": "https://www.eluniverso.com/resizer/Q4hzkDcFAA2baqZONj2UOiZYtZ0=/1195x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/G7GYN45EXJE3LPOFVAP4U3S6SY.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿A qué cantante se lo conoce como El Sol de México?",
+        "respuesta": "Luis Miguel",
+        "incorrecta1": "Carlos Rivera",
+        "incorrecta2": "Cristian Castro",
+        "incorrecta3": "Marco Antonio Solís",
+        "imagen": "https://www.acrlatinoamerica.com/images/stories/ACR/2022/Danfoss_Mxico.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué banda formó el músico inglés Jimmy Page en 1968?",
+        "respuesta": "Led Zeppelin",
+        "incorrecta1": "The Beatles",
+        "incorrecta2": "U2",
+        "incorrecta3": "Metallica",
+        "imagen": "https://rocktiliano.com/wp-content/uploads/2021/01/rocktiliano-jimmy-page-led-zeppelin.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Michael Stipe es el cantante principal de qué la banda...",
+        "respuesta": "REM",
+        "incorrecta1": "Panic! At The Disco",
+        "incorrecta2": "Twenty One Pilots",
+        "incorrecta3": "Radiohead",
+        "imagen": "https://radiocantilo.com/wp-content/uploads/2019/03/REM-1991-by-Guido-Harari-770.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué estrella del pop tocó 27 instrumentos diferentes en su álbum debut?",
+        "respuesta": "Prince",
+        "incorrecta1": "Madonna",
+        "incorrecta2": "Michael Jackson",
+        "incorrecta3": "Elton John",
+        "imagen": "https://i.ytimg.com/vi/0CWUFzbXVJg/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué edad en común tenían Janis Joplin, Jimi Hendrix, Jim Morrison y Kurt Cobain cuando murieron?",
+        "respuesta": "27",
+        "incorrecta1": "30",
+        "incorrecta2": "33",
+        "incorrecta3": "28",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/Z7XQWUGK4FD4ZFJBA73Z6GJJLI.png",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Cuál es la banda sonora de una película más vendida de todos los tiempos?",
+        "respuesta": "El Guardaespaldas",
+        "incorrecta1": "Frozen",
+        "incorrecta2": "Nace una estrella",
+        "incorrecta3": "Coco",
+        "imagen": "https://sites.google.com/site/musicaycine2014/_/rsrc/1385959775694/home/3-temario/elementos-para-el-analisis-de-la-banda-sonora-musical/m_sica_cine.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con quién canta Tini Stoessel su éxito Miénteme?",
+        "respuesta": "Maria Becerra",
+        "incorrecta1": "Cazzu",
+        "incorrecta2": "Becky G",
+        "incorrecta3": "Karol G",
+        "imagen": "https://cnnespanol.cnn.com/wp-content/uploads/2021/07/tini-horizontal.jpg?quality=100&strip=info",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con quién canta Lady Gaga su éxito Telephone?",
+        "respuesta": "Beyoncé",
+        "incorrecta1": "Katy Perry",
+        "incorrecta2": "Jessie J",
+        "incorrecta3": "Christina Aguilera",
+        "imagen": "https://hips.hearstapps.com/es.h-cdn.co/hares/images/cultura/ocio/videoclip-lady-gaga-telephone-curiosidades/por-ser-un-estupendo-refranero/3990826-1-esl-ES/por-ser-un-estupendo-refranero.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con quién canta Billie Eilish su éxito Lovely?",
+        "respuesta": "Khalid",
+        "incorrecta1": "Brandon Urie",
+        "incorrecta2": "Lil nas x",
+        "incorrecta3": "Harry Styles",
+        "imagen": "https://billi-aylish.ru/wp-content/uploads/2019/09/2019-09-23_14-59-55.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con qué diva del pop Maroon 5 canta su canción If I never see your face again?",
+        "respuesta": "Rihanna",
+        "incorrecta1": "Lady Gaga",
+        "incorrecta2": "SZA",
+        "incorrecta3": "Christina Aguilera",
+        "imagen": "https://i.pinimg.com/originals/a0/bb/93/a0bb93451385014291b44da50a5007eb.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con quién canta Tiago PZK su éxito Entre Nosotros?",
+        "respuesta": "Lit Killah",
+        "incorrecta1": "Rusherking",
+        "incorrecta2": "Duki",
+        "incorrecta3": "Khea",
+        "imagen": "https://tararear.com.ar/wp-content/uploads/2021/10/tiago-entre-nosotros-letra.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con qué rapera canta Britney Spears su éxito Pretty Girls?",
+        "respuesta": "Iggy Azalea",
+        "incorrecta1": "Nicki Minaj",
+        "incorrecta2": "Doja cat",
+        "incorrecta3": "Missy Elliot",
+        "imagen": "https://i.ytimg.com/vi/uV2uebhnqOw/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con qué rapero canta Katy Perry su E.T?",
+        "respuesta": "Kanye West",
+        "incorrecta1": "Juicy J",
+        "incorrecta2": "Jay Z",
+        "incorrecta3": "Eminem",
+        "imagen": "https://i0.wp.com/www.fantasticmag.es/wordpress2/wp-content/archivos/2011/04/katyperry-e1301957047313.jpg?fit=618%2C264&ssl=1",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "¿Con quién?",
+        "pregunta": "¿Con quién canta Maria Becerra su éxito Wow wow?",
+        "respuesta": "Becky G",
+        "incorrecta1": "Karol G",
+        "incorrecta2": "Tini Stoessel",
+        "incorrecta3": "Cazzu",
+        "imagen": "https://diario24.ar/wp-content/uploads/2021/08/Becerrra.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿De qué nacionalidad era Beethoven?",
+        "respuesta": "Alemana",
+        "incorrecta1": "Italiana",
+        "incorrecta2": "Francesa",
+        "incorrecta3": "Inglesa",
+        "imagen": "https://i.ytimg.com/vi/dhzIMZvYgaA/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿En qué país nació Freddie Mercury?",
+        "respuesta": "Tanzania",
+        "incorrecta1": "Inglaterra",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Rusia",
+        "imagen": "https://www.aqueenofmagic.com/wp-content/uploads/2020/11/freddie-mercury-queen.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Quién cantó la canción principal de la película Titanic My Heart Will Go On?",
+        "respuesta": "Celine Dion",
+        "incorrecta1": "Whitney Houston",
+        "incorrecta2": "Christina Aguilera",
+        "incorrecta3": "Adele",
+        "imagen": "https://elcomercio.pe/resizer/p8npRIHTiq_qE7_ShLhVMzk2CfU=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/XO6HZWUQPJB4BCXDT6KEZXDGNM.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué instrumento tocaba Paul McCartney en The Beatles?",
+        "respuesta": "Bajo",
+        "incorrecta1": "Guitarra",
+        "incorrecta2": "Bateria",
+        "incorrecta3": "Piano",
+        "imagen": "https://media.revistavanityfair.es/photos/62ac962f81366ef2313dfeed/16:9/w_2560%2Cc_limit/GettyImages-85234418.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿En qué ciudad se formó The Beatles?",
+        "respuesta": "Liverpool",
+        "incorrecta1": "Birmingham",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Mánchester",
+        "imagen": "https://indiehoy.com/wp-content/uploads/2020/10/thebeatles-1.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Cuál fue la primera grabación de Rock and Roll?",
+        "respuesta": "Una canción de Chuck Berry",
+        "incorrecta1": "Una canción de Elvis Presley",
+        "incorrecta2": "Una canción de Little Richard",
+        "incorrecta3": "Una canción de Bill Haley",
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/14/7f/1a/46/rock-n-roll-athens.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Una de estas obras no es de Mozart. ¿Cuál de ellas?",
+        "respuesta": "Madama Butterfly",
+        "incorrecta1": "Las bodas de Fígaro",
+        "incorrecta2": "La falsa jardinera",
+        "incorrecta3": "La flauta mágica",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxl7Elmaxrytn3OAbHyZpURvV4D6GBW90ZbrCSDq151gwLn7QtnsqRyQm5lYNMN5esO2Q&usqp=CAU",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Cuál de estos cantantes dijo la frase 'Prefiero que me odien por lo que soy a que me admiren por lo que nunca seré'?",
+        "respuesta": "Kurt Cobain",
+        "incorrecta1": "John Lennon",
+        "incorrecta2": "Jim Morrison",
+        "incorrecta3": "Freddie Mercury",
+        "imagen": "https://ifrases.net/wp-content/uploads/2019/07/Prefiero-que-me-odien-por-lo-que-soy-a-que-me-admiren-por-lo-que-jam%C3%A1s-llegar%C3%A9-a-ser.png",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué edad tenía Britney Spears cuando su exitosa canción 'Baby One More Time' salió en 1998?",
+        "respuesta": "17",
+        "incorrecta1": "16",
+        "incorrecta2": "18",
+        "incorrecta3": "19",
+        "imagen": "https://as01.epimg.net/epik/imagenes/2018/10/23/portada/1540305745_959992_1540308044_noticia_normal.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "¿Qué edad tenía Britney Spears cuando su exitosa canción 'Baby One More Time' salió en 1998?",
+        "respuesta": "17",
+        "incorrecta1": "16",
+        "incorrecta2": "18",
+        "incorrecta3": "19",
+        "imagen": "https://as01.epimg.net/epik/imagenes/2018/10/23/portada/1540305745_959992_1540308044_noticia_normal.jpg",
+        "objectFit": "cover"
+    }
+]
+
+

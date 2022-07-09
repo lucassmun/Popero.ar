@@ -1,0 +1,204 @@
+* {
+    transition: all 0.3s;
+}
+
+.body {
+    background-color: #161e8d;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.body_dua{
+    background-color: #e2662a;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.body_preguntas{
+    background-color:#17191a;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.body_ppt{
+    background-color: darkorange;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+.nav-link, .card-text, .bott{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-title{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.bott{
+    background-color: #161e8d;
+}
+
+.contenedor {
+    width: 70%;
+    height: auto;
+    margin-left: 15%;
+    display: flex;
+    margin-top: 45px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.encabezado {
+    position: relative;
+    background: #161e8d;
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+.categoria {
+    opacity: 0.3;
+    text-align: left;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pregunta {
+    width: 50%;
+    padding: 20px;
+    background-color: #de3487;
+}
+
+.pregunta_titulo{
+    font-family: 'Bebas Neue', cursive;
+    color: wheat;
+    font-size: 25px;
+}
+
+.pregunta_texto{
+    font-size: 12px;
+    width: 80%;
+    margin-left: 10%;
+    font-family: 'Montserrat', sans-serif;
+    color: wheat;
+}
+
+.pregunta_boton{
+    margin-top: 10px;
+}
+
+.form-control{
+    width: 90%;
+    margin-left: 5%;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+}
+
+.btnn{
+    background: white;
+    width: 60%;
+    max-width: 550px;
+    padding: 4px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btnn:hover {
+    transform: scale(1.07);
+} 
+
+.preguntax{
+    padding: 5px;
+}
+
+
+.numero {
+    position: absolute;
+    opacity: 0.3;
+    top: 10px;
+    right: 10px;
+}
+
+.puntaje {
+    padding: 10px;
+    color: white;
+}
+
+
+/* MENU */
+
+.back-video{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-size: cover;
+}
+
+@media (min-aspect-ratio: 16/9){
+    .back-video{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-aspect-ratio: 16/9){
+    .back-video{
+        width: auto;
+        height: 100%;
+    }
+}
+
+
+.ppt_container{
+    background-color: #161e8d;
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.ppt_titulo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.ppt_texto{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+
+.ppt_boton{
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    width: 80px;
+    margin-right: 5px;
+    font-size: 15px;
+}
